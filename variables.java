@@ -1,14 +1,14 @@
 public class variables {
-    public static viod main(string[]args){
-        int m = 15;
-        double n = 15.5;
-        string o = "NIHARIKA";
-        boolean p = false;
+    public static void main(String[]args){
+        int a = 15;
+        double b = 15.5;
+        String c = "NIHARIKA";
+        boolean d = false;
 
-        System.out.println(m);
-        System.out.println(n);
-        System.out.println(o);
-        System.out.println(p);
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
     
     }
     
