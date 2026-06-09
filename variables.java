@@ -1,15 +1,14 @@
-public class variables {
+public class variables{
     public static void main(String[]args){
-        int m = 15;
-        double n = 15.5;
-        String o = "NIHARIKA";
-        boolean p = false;
+        int m = 10;
+        double n = 10.5;
+        String o = "niharika";
+        boolean p =true;
 
         System.out.println(m);
         System.out.println(n);
         System.out.println(o);
         System.out.println(p);
-    
     }
-    
+}
 }
