@@ -6,8 +6,8 @@ public class variables {
         boolean p = false;
 
         System.out.println(m);
-        System.err.println(n);
-        System.err.println(o);
+        System.out.println(n);
+        System.out.println(o);
         System.out.println(p);
     }
     
