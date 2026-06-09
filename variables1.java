@@ -1,4 +1,4 @@
-public class variables{
+public class variables1{
     public static void main(String[]args){
         int m = 10;
         double n = 10.5;
@@ -10,5 +10,4 @@ public class variables{
         System.out.println(o);
         System.out.println(p);
     }
-}
 }
