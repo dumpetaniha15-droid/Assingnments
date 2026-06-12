@@ -4,7 +4,7 @@ public class assignments{
         double b = 10.1;
         String c = "kanna";
         boolean d = true;
-        char e = 'D';
+        char f = 'D';
 
         System.out.println(a);
         System.out.println(b);
