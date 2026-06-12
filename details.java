@@ -1,4 +1,4 @@
-public class chinnari {
+public class details {
     public static void main(String[] args){
         System.out.print("my name is Niharika,");
         System.out.print("iam a student in Nishitha degree college.");
