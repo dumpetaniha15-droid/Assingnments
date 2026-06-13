@@ -1,5 +1,6 @@
 public class wrapper {
-    public static void main(String[] args){
+    public static void main(String[] args)
+    {
 
         System.out.println(Integer.MIN_VALUE);
         System.out.println(Integer.MAX_VALUE);
@@ -20,7 +21,7 @@ public class wrapper {
         System.out.println(Byte.MIN_VALUE);
         System.out.println(Byte.MAX_VALUE);
         System.out.println(Byte.SIZE);
-
+        
         System.out.println(Short.MIN_VALUE);
         System.out.println(Short.MAX_VALUE);
         System.out.println(Short.SIZE);
@@ -29,10 +30,7 @@ public class wrapper {
         System.out.println(Long.MAX_VALUE);
         System.out.println(Long.SIZE);
 
-        System.out.println(Boolean.TRUE);
+        System.err.println(Boolean.TRUE);
         System.out.println(Boolean.FALSE);
-
-
     }
-    
 }
