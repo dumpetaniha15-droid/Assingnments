@@ -30,7 +30,7 @@ public class wrapper {
         System.out.println(Long.MAX_VALUE);
         System.out.println(Long.SIZE);
 
-        System.err.println(Boolean.TRUE);
+        System.out.println(Boolean.TRUE);
         System.out.println(Boolean.FALSE);
     }
 }
