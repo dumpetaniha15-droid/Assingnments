@@ -10,7 +10,6 @@ public class variables2 {
         System.out.println(laptop);
         System.out.println(price);
         System.out.println(Quality);
-    
-}
+    }
 
 }
