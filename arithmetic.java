@@ -1,13 +1,13 @@
 public class arithmetic {
     public static void main(String[] args){
         
-      int a=2 , b=3;
+      int a=4 , b=3;
 
-      System.out.println(a + b);
-      System.out.println(a - b);
-      System.out.println(a * b);
-      System.out.println(a / b);
-      System.out.println(a % b);
+      System.out.println(a + b);  //7
+      System.out.println(a - b);  //1
+      System.out.println(a * b);  //12
+      System.out.println(a / b);  //1
+      System.out.println(a % b);  //1
     }
 
 
