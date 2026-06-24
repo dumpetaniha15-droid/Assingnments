@@ -3,7 +3,7 @@ public class logical1 {
         boolean isOnline = true;
         boolean isOfline = false;
 
-         System.out.println(isOnline || isOfline);   //false
-         System.out.println(isOnline && isOfline);   //true
+         System.out.println(isOnline || isOfline);   //true
+         System.out.println(isOnline && isOfline);   //false
     }    
 }
