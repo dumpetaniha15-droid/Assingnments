@@ -1,5 +1,5 @@
 public class ATM{
-    static String bankName = "skill sprint Technology";
+    static String bankName = "skill sprint Technlogy";
     static long accountNumber = 1234567890l;
     static String accountHolderName = "Niharika";
     static long mobileNumber = 7815944014l;
