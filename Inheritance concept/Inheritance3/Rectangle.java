@@ -10,9 +10,9 @@ public class Rectangle extends Shape {
     this.width = width;
  }
  void display(){
-    System.out.println("colour: " + colour);
-    System.out.println("lenght: " + length);
-    System.out.println("width: " + width);
-    System.out.println("Area: " + (length*width));
+    System.out.println("colour : " + colour);
+    System.out.println("lenght : " + length);
+    System.out.println("width  : " + width);
+    System.out.println("Area   : " + (length*width));
  }
 }// Area = length*width
