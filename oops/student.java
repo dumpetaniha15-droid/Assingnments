@@ -15,7 +15,7 @@ abstract class person{
     public int getRollNo() {
         return rollNo;
     }
-    abstract void display();   //abstract method (polymorphism)
+    abstract void display();   //abstract method
 }
 
 // Child Class: (inheritance)
