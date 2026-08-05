@@ -13,7 +13,6 @@ Mobile(String brand, String ram, String storage){
     this.ram = ram;
     this.storage = storage;
 }
-
 void intro(){
     System.out.println("mobile brand: " + brand);
     System.out.println("mobile ram: " + ram);

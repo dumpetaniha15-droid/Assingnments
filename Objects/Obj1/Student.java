@@ -10,7 +10,6 @@ Student(String name, int age){
     this.name = name;
     this.age = age;
 }
-
 void study(){
     System.out.println(name + " is practicing java");
     System.out.println(name + " working hard");
