@@ -33,29 +33,6 @@ public class LinkedListt {
 
 
         Collections.sort(names);
-        System.out.println(names);
-
-        
-       
-        
-
-
-
-
-
-
-
-
-
-
-
-
-        
+        System.out.println(names);   
     }
-
-
-
-
-    
-    
 }
